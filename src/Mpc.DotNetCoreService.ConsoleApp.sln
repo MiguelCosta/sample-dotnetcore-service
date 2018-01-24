@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mpc.DotNetCoreService.ConsoleApp", "Mpc.DotNetCoreService.ConsoleApp\Mpc.DotNetCoreService.ConsoleApp.csproj", "{4D40BBCE-CE96-47CD-ABB9-55430A2CB2C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mpc.DotNetCoreService.ConsoleApp", "Mpc.DotNetCoreService.ConsoleApp\Mpc.DotNetCoreService.ConsoleApp.csproj", "{4D40BBCE-CE96-47CD-ABB9-55430A2CB2C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E8774BA-AAC3-4DBB-BEA2-E89C02ADC7EF}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
